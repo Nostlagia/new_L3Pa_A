@@ -1,6 +1,8 @@
 public class new_L3Pa_A {
     public static void main(String[] args) {
         // hello
+        // Hello World
+        // It's Nos
         B b = new B();
         b.m1();
 

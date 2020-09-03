@@ -12,7 +12,7 @@
         <dependencies>
             <dependency>
                 <groupId>nos.test</groupId>
-                <artifactId>new_L3Pa_C</artifactId>
+                <artifactId>new_L3Pa_G</artifactId>
                 <version>2.0</version>
             </dependency>
         </dependencies>
@@ -21,7 +21,7 @@
         <dependency>
             <groupId>nos.test</groupId>
             <artifactId>B</artifactId>
-            <version>2.0</version>
+            <version>4.0</version>
         </dependency>
         <dependency>
             <groupId>nos.test</groupId>
@@ -33,6 +33,16 @@
                     <artifactId>new_L3Pa_F</artifactId>
                 </exclusion>
             </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>nos.test</groupId>
+            <artifactId>new_L3Pa_E</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>nos.test</groupId>
+            <artifactId>new_L3Pa_F</artifactId>
+            <version>2.0</version>
         </dependency>
     </dependencies>
 

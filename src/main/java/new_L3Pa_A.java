@@ -5,6 +5,7 @@ public class new_L3Pa_A {
         // It's Nos
         // Come on, guys
         // wish
+        // Hello
         B b = new B();
         b.m1();
 

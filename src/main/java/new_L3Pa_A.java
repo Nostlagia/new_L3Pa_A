@@ -10,6 +10,7 @@ public class new_L3Pa_A {
         // Hi guys
         // Hello World
         // come on
+        // Hi
         B b = new B();
         b.m1();
 

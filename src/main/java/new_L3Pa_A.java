@@ -11,6 +11,7 @@ public class new_L3Pa_A {
         // Hello World
         // come on
         // Hi
+        // Come on
         B b = new B();
         b.m1();
 

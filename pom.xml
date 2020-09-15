@@ -21,7 +21,7 @@
         <dependency>
             <groupId>nos.test</groupId>
             <artifactId>B</artifactId>
-            <version>5.0</version>
+            <version>3.0</version>
         </dependency>
         <dependency>
             <groupId>nos.test</groupId>

@@ -1,23 +1,6 @@
 public class new_L3Pa_A {
     public static void main(String[] args) {
         // hello
-        // Hello World
-        // It's Nos
-        // Come on, guys
-        // wish
-        // Hello
-        // It's Nos
-        // Hi guys
-        // Hello World
-        // come on
-        // Hi
-        // Come on
-        // No 
-        // c
-        // Hello
-        // Come on!
-        // Good job!
-        // Hi
 
         B b = new B();
         b.m1();

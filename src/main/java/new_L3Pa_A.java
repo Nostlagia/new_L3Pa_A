@@ -15,11 +15,7 @@ public class new_L3Pa_A {
         // No 
         // c
         // Hello
-        // LaLaLa
-        //gyuguygjhg
-        // aaa
-        //   cccc
-        // adnh
+
         B b = new B();
         b.m1();
 
